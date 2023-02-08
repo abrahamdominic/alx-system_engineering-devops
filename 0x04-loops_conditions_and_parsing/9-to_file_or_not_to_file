@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# This script gives you information about the alxschool file
+
+sc="school"
+
+if [ -e $sc ]
+then
+    echo "$sc file exists"
+
+    if [ -s $sc ]
+    then
+	echo "$sc file is not empty"
+    else
+	echo "$sc file is empty"
+    fi
+
+    if [ -f $sc ]
+    then
+	echo "$sc is a regular file"
+    fi
+else
+    echo "$sc file does not exist"
+fi
