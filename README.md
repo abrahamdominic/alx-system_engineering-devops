@@ -10,7 +10,7 @@
 
 4. ## [0x00. Shell, init files, variables and expansions](https://github.com/abrahamdominic/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions)
 
-# How to solve Shell Basic task
+# How to solve Shell Basics task
 
 # SHELL BASICS
 
@@ -349,7 +349,7 @@ git commit -m "(please put your own message)
 
 git push
 
-#TASK 10
+# TASK 10
 
 make sure you are in alx-system_engineering-devops
 
